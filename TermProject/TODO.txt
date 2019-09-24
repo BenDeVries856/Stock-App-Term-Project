@@ -1,0 +1,18 @@
+﻿
+CURRENT
+-
+
+BUGS / VALIDATION:
+- right now when ever you buy shares of a stock you already own
+  it updates the old price, which it shouldnt
+
+FEATURES:
+- update the stock prices if it is a new day
+- display the price as either green or red depending on if the
+  the current price is higher or lower than the original price
+- change the delete all to sell button
+- add click holds to the list items
+- sell the stock on the click hold
+
+ALPHA VANTAGE KEY
+ACD1HHQFO95N0P93
